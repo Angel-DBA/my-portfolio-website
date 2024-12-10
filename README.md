@@ -1,18 +1,18 @@
 Hi 👋, I'm Sachin
-A passionate fullstack developer from India
+A passionate fullstack developer from Tanzania
 sachin-source
 
-sachin-source
+Angel-William
 
-🌱 I’m currently learning Java script, Python, Angular, React, Next.js, Node, Devops, AWS, and machine learning.
+🌱 I’m currently learning Java script, Python, Django, Angular, React, Devops, AWS, and machine learning.
 
-📫 How to reach me sachinmgvt@gmail.com
+📫 How to reach me eng.angelawilliam@gmail.com
 
 GitHub Stats
 GitHub Stats Top Languages Streak Stats
 
 Skills
-angular aws bootstrap chartjs css3 docker electron express firebase flask git heroku html5 javascript jenkins kubernetes linux mongodb nginx nodejs postman python rabbitMQ react redis redux sass selenium
+ bootstrap sass css3  git heroku html5 javascript react mongodb  python Tailwind Django
 
 Let's Connect
 
