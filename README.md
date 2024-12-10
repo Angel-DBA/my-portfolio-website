@@ -1,6 +1,5 @@
 Hi 👋, I'm Angel
 A passionate fullstack developer from Tanzania
-sachin-source
 
 Angel-William
 
